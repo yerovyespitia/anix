@@ -1,6 +1,6 @@
 const Card = () => {
   return (
-    <section className='relative rounded-lg overflow-hidden max-w-[231px] max-h-[332px] min-w-[190px] min-h-[281px]'>
+    <section className='relative rounded-lg overflow-hidden max-w-[190px] max-h-[281px] min-w-[190px] min-h-[281px]'>
       <section
         className='relative overflow-hidden 
         rounded-lg 
